@@ -8,5 +8,15 @@
       "/media/products/4182219169.jpg"
     ],
     "visible": true
+  },
+  {
+    "name": "Watermelon zoa",
+    "price": "€7.5",
+    "status": "Momenteel uitverkocht",
+    "description": "Leuke kleurrijke zoa, groeit vrij vlot.",
+    "images": [
+      "/media/products/466913028_10231079050413879_6628314836125218705_n.jpg"
+    ],
+    "visible": true
   }
 ]
