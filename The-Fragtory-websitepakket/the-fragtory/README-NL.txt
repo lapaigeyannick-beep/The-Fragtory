@@ -25,7 +25,7 @@ Pages CMS is een aparte gratis editor voor de inhoud van deze website.
 Per product:
 - Naam van het koraal
 - Prijs in euro (0 = 'Prijs op aanvraag')
-- Beschikbaarheid: Beschikbaar / Gereserveerd / Verkocht
+- Beschikbaarheid: Available / Reserved / Sold
 - Korte omschrijving
 - Eén of meerdere foto's
 - 'Tonen op de website' aan/uit
