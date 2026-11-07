@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Montipora Forest Fire",
+    "price": "€7.5",
+    "status": "Voldoende",
+    "description": "Leuk en makkelijk SPS koraal met rode poliepen en groen skelet.",
+    "images": [
+      "/media/products/4182219169.jpg"
+    ],
+    "visible": true
+  }
+]
