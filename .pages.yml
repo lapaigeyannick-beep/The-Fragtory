@@ -1,0 +1,31 @@
+media:
+  input: The-Fragtory-websitepakket/the-fragtory/media/products
+  output: /media/products
+
+content:
+  - name: products
+    label: Koralen
+    type: file
+    path: The-Fragtory-websitepakket/the-fragtory/data/products.json
+    format: json
+    list: true
+    fields:
+      - name: name
+        label: Naam
+        type: string
+      - name: price
+        label: Prijs
+        type: string
+      - name: status
+        label: Beschikbaarheid
+        type: string
+      - name: description
+        label: Beschrijving
+        type: text
+      - name: images
+        label: Foto's
+        type: image
+        list: true
+      - name: visible
+        label: Zichtbaar
+        type: boolean
