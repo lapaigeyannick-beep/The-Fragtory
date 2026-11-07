@@ -52,3 +52,4 @@ LET OP
 Pages CMS bewaart de content in GitHub. Wijzigingen worden als repository-commits opgeslagen.
 Cloudflare Pages kan gekoppeld worden aan dezelfde repository en publiceert wijzigingen
 automatisch. Er is geen eigen betaalde server of database nodig.
+Website-update
